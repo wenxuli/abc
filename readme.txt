@@ -1,2 +1,2 @@
 hello word
-我做了修改
+Creating a new branch is quick
